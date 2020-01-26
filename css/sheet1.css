@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    padding: 0;   
+   
+}
+.wrapper {
+    width: 100%;
+    margin-top: 20vh;    
+}
+form{
+    margin: auto;
+}
+input{
+padding: 10px;
+border:none;
+  
+}
+
+input:focus {
+    border: none;
+    outline: none;
+    border-bottom: 5px solid #333;
+}
+#alert-box{
+    display: none;
+    height: 8vh;
+}
+
+button{
+    margin-top: 8px;
+}
+#inBtn{
+ background-color: #90CAF9;
+}
